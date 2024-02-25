@@ -180,6 +180,7 @@ class BaseTrainer:
         norm_mean_and_std = torch.zeros(2, n_new_classes, device='cuda')
 
         self.logger.info("computing prototypes...")
+        self.model.eval()
         with torch.no_grad():
             for batch_idx, data in enumerate(self.train_loader):
 
@@ -219,6 +220,8 @@ class BaseTrainer:
                 self.norm_mean_and_std = norm_mean_and_std
             else:
                 self.norm_mean_and_std = torch.cat([self.prev_norm, norm_mean_and_std], dim=1)
+            
+        self.model.train()
 
     def compute_noise(self, config):
         # step = config['data_loader']['args']['task']['step']
@@ -235,6 +238,7 @@ class BaseTrainer:
         noise_cnt = torch.zeros(n_new_classes, device='cuda')
 
         self.logger.info("computing noise...")
+        self.model.eval()
         with torch.no_grad():
             for batch_idx, data in enumerate(self.train_loader):
 
@@ -270,6 +274,8 @@ class BaseTrainer:
                 self.noise = noise
             else:
                 self.noise = torch.cat([self.prev_noise, noise], dim=0)
+            
+        self.model.train()
 
     def test(self):
         result = self._test()
