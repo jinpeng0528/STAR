@@ -139,7 +139,7 @@ Or, download our pretrained weights and corresponding `config.json` files provid
 ```
 @inproceedings{chen2023saving,
   title={Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation},
-  author={Chen, Jinpeng and Cong, Runmin and Yuxuan, Luo and Ip, Horace and Kwong, Sam},
+  author={Chen, Jinpeng and Cong, Runmin and Luo, Yuxuan and Ip, Horace and Kwong, Sam},
   booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023}
 }
