@@ -130,7 +130,7 @@ python eval_ade.py --device 0 --test --resume path/to/weight.pth
 ```
 Or, download our pretrained weights and corresponding `config.json` files provided below. Ensure that the config.json file is located in the same directory as the weight file.
 
-| Method<br>(Disjoint)  | 100-50<br>(2 steps) | 100-10<br>(2 steps) | 50-50<br>(6 steps) | 
+| Method<br>(Disjoint)  | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 50-50<br>(3 steps) | 
 |:----------------------|:-------------------:|:-------------------:|:------------------:|
 | STAR                  |      [36.39](https://drive.google.com/drive/folders/1nTz9cffAul-vnB3sCouinv1CAE9OnHN4?usp=sharing)      |      [34.91](https://drive.google.com/drive/folders/10bE9e1ms1C8AspeL45HA7hNHKSyfgDh5?usp=sharing)      |     [34.44](https://drive.google.com/drive/folders/1WjAduI5Q1CZMq0CwHLAHHVwswfXwlx8L?usp=sharing)      |
 
