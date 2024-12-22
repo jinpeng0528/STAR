@@ -114,8 +114,8 @@ Or, download our pretrained weights and corresponding `config.json` files provid
 
 | Method<br>(Overlapped) | 19-1<br>(2 steps) | 15-5<br>(2 steps) | 15-1<br>(6 steps) | 10-1<br>(11 steps) | 5-3<br>(6 steps) |
 |:-----------------------|:-----------------:|:-----------------:|:-----------------:|:------------------:|:----------------:|
-| STAR                   |     [76.61](https://drive.google.com/drive/folders/1MtuDShboaeNJ9gI_6m-XpGsoh9Nelj6W?usp=sharing)     |     [74.86](https://drive.google.com/drive/folders/1pSbZMQz8aQk9DkyhagQjclG8rO96vwOe?usp=sharing)     |     [72.90](https://drive.google.com/drive/folders/151x2QYEJp_rQRj9meA7xwY8GT7bOBlYE?usp=sharing)     |     [64.86](https://drive.google.com/drive/folders/1RgvPBHZUusjEasPHl6rGJ5aigLqA1Tvx?usp=sharing)      |    [64.54](https://drive.google.com/drive/folders/1GHpALBIegQXRqbM2b5E4ZJabfl27zVVp?usp=sharing)     |
-| STAR-M                 |     [77.02](https://drive.google.com/drive/folders/1eoyag3QT64n3JfZkLjxHg5mx0LBkdmBi?usp=sharing)     |     [75.80](https://drive.google.com/drive/folders/15DWWHvIvB9ZGSdmEvdWbGKt68d_M8H0w?usp=sharing)     |     [74.03](https://drive.google.com/drive/folders/1iEV4p9-lhgIAZkbtyi2FjiZ1JMs1yQZ2?usp=sharing)     |     [66.60](https://drive.google.com/drive/folders/1oyJa_FKZ-8d1EOTb1pRWfeM-4jxuCwW3?usp=sharing)      |    [65.65](https://drive.google.com/drive/folders/1M91WkpH7nJLOf7_8bTLzDXtP2tkuwOnj?usp=sharing)     |
+| STAR                   |     [76.61](https://1drv.ms/f/c/7be8ecfc440137f7/EhIdDgqMcNRFsFe2bO3kwUoBqpfTil-nw8H8RfW-zyWBIg)     |     [74.86](https://1drv.ms/f/c/7be8ecfc440137f7/Eibeu5m4MJVKqtEBg8g0AJAB8NOGQdIS-UfouX8a6pWzHg)     |     [72.90](https://1drv.ms/f/c/7be8ecfc440137f7/Ermy2No82QhGi7s9wiS8ekgB3EyOsJCML60Zit6Qdasdwg)     |     [64.86](https://1drv.ms/f/c/7be8ecfc440137f7/EqvP86PEGeJHk2wV_qrdT3ABkV5ARlh3sPVR0DxxF4y2Ew)      |    [64.54](https://1drv.ms/f/c/7be8ecfc440137f7/El2E3MW7PDpHjbL69QIyj5MBPQrdZeGvI2PWnpaaubQ-TQ)     |
+| STAR-M                 |     [77.02](https://1drv.ms/f/c/7be8ecfc440137f7/EnWyQVZya8tCrdpoeb0QQ2sBnCjsSaKApcoK1P5NtA4CAA)     |     [75.80](https://1drv.ms/f/c/7be8ecfc440137f7/Ep4M_3NNxFtCuIktk3rFIDoBbfKpj7rWsGIZ-OSjN335Ww)     |     [74.03](https://1drv.ms/f/c/7be8ecfc440137f7/EkWn2HverWxHpGpmp3lQJkgBQ2aCAvGO1CR-kNhdxpKxdA)     |     [66.60](https://1drv.ms/f/c/7be8ecfc440137f7/El-GKtKLDotAiBIECM9F2QQBxUQCusYdLC83bqseP5PnQA)      |    [65.65](https://1drv.ms/f/c/7be8ecfc440137f7/Eke6GbIC9UBPlNwRh6zLLWQB7aymtdtDGvgieZMMbSVWZw)     |
 
 | Method<br>(Disjoint)  | 19-1<br>(2 steps) | 15-5<br>(2 steps) | 15-1<br>(6 steps) | 
 |:----------------------|:-----------------:|:-----------------:|:-----------------:|
@@ -132,7 +132,7 @@ Or, download our pretrained weights and corresponding `config.json` files provid
 
 | Method<br>(Disjoint)  | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 50-50<br>(3 steps) | 
 |:----------------------|:-------------------:|:-------------------:|:------------------:|
-| STAR                  |      [36.39](https://1drv.ms/f/c/7be8ecfc440137f7/Ek4eU8D15jRMhLOWlxCYaA8BTtr2EqBC_Vv7LHIwmmERxA?e=fagWxa)      |      [34.91](https://1drv.ms/f/c/7be8ecfc440137f7/ElzKfcT511FOr5aconQh3BAB6kGsR5buK770cicmjP2Pnw?e=bbGv6x)      |     [34.44](https://1drv.ms/f/c/7be8ecfc440137f7/ElRupd--D4JAvlHjFq1SdC0BcFdz3Dd0TjaN8BjTBEZxIQ)      |
+| STAR                  |      [36.39](https://1drv.ms/f/c/7be8ecfc440137f7/Ek4eU8D15jRMhLOWlxCYaA8BTtr2EqBC_Vv7LHIwmmERxA)      |      [34.91](https://1drv.ms/f/c/7be8ecfc440137f7/ElzKfcT511FOr5aconQh3BAB6kGsR5buK770cicmjP2Pnw)      |     [34.44](https://1drv.ms/f/c/7be8ecfc440137f7/ElRupd--D4JAvlHjFq1SdC0BcFdz3Dd0TjaN8BjTBEZxIQ)      |
 
 
 ## Citation
