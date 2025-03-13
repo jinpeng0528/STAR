@@ -1,7 +1,8 @@
 # [NeurIPS 2023] Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation
 
 This is an official implementation of the paper "Saving 100x Storage: Prototype Replay for Reconstructing Training Sample Distribution in Class-Incremental Semantic Segmentation", accepted by NeurIPS 2023.
-[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html)
+📝 [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/708e0d691a22212e1e373dc8779cbe53-Abstract-Conference.html)
+🤗 [Hugging Face](https://huggingface.co/jinpeng0528/STAR)
 
 ## Installation
 ### Pre-requisites
