@@ -133,7 +133,7 @@ Or, download our pretrained weights and corresponding `config.json` files provid
 
 | Method<br>(Disjoint)  | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 50-50<br>(3 steps) | 
 |:----------------------|:-------------------:|:-------------------:|:------------------:|
-| STAR                  |      [36.39](https://1drv.ms/f/c/7be8ecfc440137f7/Ek4eU8D15jRMhLOWlxCYaA8BTtr2EqBC_Vv7LHIwmmERxA)      |      [34.91](https://1drv.ms/f/c/7be8ecfc440137f7/ElzKfcT511FOr5aconQh3BAB6kGsR5buK770cicmjP2Pnw)      |     [34.44](https://1drv.ms/f/c/7be8ecfc440137f7/ElRupd--D4JAvlHjFq1SdC0BcFdz3Dd0TjaN8BjTBEZxIQ)      |
+| STAR                  |      [36.39](https://huggingface.co/jinpeng0528/STAR/tree/main/ade_overlapped_100-50_STAR)      |      [34.91](https://huggingface.co/jinpeng0528/STAR/tree/main/ade_overlapped_100-10_STAR)      |     [34.44](https://huggingface.co/jinpeng0528/STAR/tree/main/ade_overlapped_50-50_STAR)      |
 
 
 ## Citation
