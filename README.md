@@ -131,7 +131,7 @@ python eval_ade.py --device 0 --test --resume path/to/weight.pth
 ```
 Or, download our pretrained weights and corresponding `config.json` files provided below. Ensure that the config.json file is located in the same directory as the weight file.
 
-| Method<br>(Disjoint)  | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 50-50<br>(3 steps) | 
+| Method<br>(Overlapped)  | 100-50<br>(2 steps) | 100-10<br>(6 steps) | 50-50<br>(3 steps) | 
 |:----------------------|:-------------------:|:-------------------:|:------------------:|
 | STAR                  |      [36.39](https://huggingface.co/jinpeng0528/STAR/tree/main/ade_overlapped_100-50_STAR)      |      [34.91](https://huggingface.co/jinpeng0528/STAR/tree/main/ade_overlapped_100-10_STAR)      |     [34.44](https://huggingface.co/jinpeng0528/STAR/tree/main/ade_overlapped_50-50_STAR)      |
 
